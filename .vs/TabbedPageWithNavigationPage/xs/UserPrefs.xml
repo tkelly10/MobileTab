@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7C3BD5D4-8339-4FB0-BC52-3A49791D8128}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabbedPageWithNavigationPage/Page2.xaml">
+    <Files>
+      <File FileName="TabbedPageWithNavigationPage/Page1.xaml" Line="7" Column="71" />
+      <File FileName="TabbedPageWithNavigationPage/Page2.xaml" Line="9" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TabbedPageWithNavigationPage" expanded="True">
+            <Node name="TabbedPageWithNavigationPage" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="Page2.xaml" selected="True" />
+            </Node>
+            <Node name="TabbedPageWithNavigationPage.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TabbedPageWithNavigationPage.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F672C981-D728-42C1-892D-CADD37ED9113" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TabbedPageWithNavigationPage.Droid PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

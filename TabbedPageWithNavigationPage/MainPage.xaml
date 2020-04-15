@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:TabbedPageWithNavigationPage;assembly=TabbedPageWithNavigationPage"
+            x:Class="TabbedPageWithNavigationPage.MainPage">
+	
+    <NavigationPage Title="Page one" IconImageSource="settings.png">
+        <x:Arguments>
+            <local:Page1/>
+        </x:Arguments>
+    </NavigationPage>
+     <NavigationPage Title="Page two" IconImageSource="schedule.png">
+        <x:Arguments>
+            <local:Page2/>
+        </x:Arguments>
+    </NavigationPage>
+	<NavigationPage Title="Page three" IconImageSource="schedule.png">
+        <x:Arguments>
+            <local:Page3/>
+        </x:Arguments>
+    </NavigationPage>
+</TabbedPage>

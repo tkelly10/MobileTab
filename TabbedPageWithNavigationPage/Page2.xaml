@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TabbedPageWithNavigationPage.Page2">
+    <ContentPage.Content>
+        <StackLayout>
+             <Label HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Text="Enter the year you were born"></Label>
+             <Entry Placeholder="Birth year" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Completed="CheckDriveYear"/>
+            <Label x:Name="Message" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
